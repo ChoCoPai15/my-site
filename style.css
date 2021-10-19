@@ -11,7 +11,7 @@ body {
   background-position: top center;
 }
 a:hover{
-  color:purple;
+  color:#FF800080;
 }
 .container {
   max-width: 928px;
